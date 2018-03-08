@@ -28,7 +28,7 @@ Left clic to select to shape you want to modify, right clic to unselect.
 Keys :
 -Enter RT: space
 -Exit RT: esc
--Remove form: delete
+-Remove shape: delete
 -Change mode (edit / diffuse / reflection): L
 -Move camera:
 	rotation: arrows + n + m
